@@ -1,8 +1,13 @@
 button{
-    background-color: green;
+    background-color: #adefd1ff;
+    color: #00203fff;
 }
 
 .navlink{
     align-items: center;
     text-decoration: none;
+}
+
+.main_cls{
+    border: 1px solid black;
 }
